@@ -1,4 +1,4 @@
-#Update 1.2
+# Update 1.2
 -some new stuff added
 
 # Passwrod-Generator
